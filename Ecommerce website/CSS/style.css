@@ -1,0 +1,50 @@
+body
+{
+	background-color: #EAFDFC;
+}
+.roundedborder
+{
+	border :0px;
+	border-radius: 25px;
+}
+.active
+{
+	background-color: #395144;
+	border-radius: 25px;
+}
+a:link
+{
+	color: white;
+	text-decoration: none;
+}
+a:visited
+{
+	color: white;
+	text-decoration: none;
+}
+a:hover
+{
+	color: white;
+	text-decoration: none;
+	font-size: 18px;
+}
+.navigation
+{
+	background-color: #227C70;
+}
+.tablerow
+{
+	width: 100%;
+}
+.products
+{
+	width: 25%;
+}
+.productsimage
+{
+	border-radius: 25px;
+}
+.price
+{
+	margin-left: 100px;
+}
